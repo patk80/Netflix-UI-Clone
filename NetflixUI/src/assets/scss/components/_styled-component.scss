@@ -1,0 +1,16 @@
+.styled-component {
+    background-color: red;
+    span {
+        border:solid 1px yellow;
+        p{
+            font-weight: 900;
+            color: blue;
+            small {
+                text-transform: uppercase;
+            }
+        }
+    }
+    p {
+        color: white
+    }
+}
